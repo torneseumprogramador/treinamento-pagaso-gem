@@ -9,7 +9,8 @@ TODO: Delete this and the text above, and describe your gem
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'treinamento_pagaso'
+gem 'treinamento_pagaso', git: 'https://github.com/torneseumprogramador/treinamento-pagaso-gem'
+
 ```
 
 And then execute:
